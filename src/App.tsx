@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li>Twitter: @group14zidio</li>
               <li>LinkedIn: group14zidio</li>
-              <li>GitHub: </li>
+              <li>GitHub: Group14_TaskManagement</li>
             </ul>
           </div>
         </div>
